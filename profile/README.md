@@ -1,44 +1,39 @@
-# 会社名
+# Zexot.com Inc.
 
-## ビジョン
+<p align="center">
+  🇺🇸 English |
+  <a href="/profile/README-ja.md">🇯🇵 日本語 (Japanese)</a> |
+  <a href="/profile/README-kokr.md">🇰🇷 한국어 (Korean)</a> 
+</p>
 
-[会社/組織の根本的な使命と長期的な目標を簡潔に記述]
+## <a name="english"></a> VISION (English)
+We strive to enrich people's lives through technology and create a sustainable future. Our mission is to deliver innovative solutions that contribute to a better society.
 
-## 私たちの価値観
+## OUR VALUES
+- **Innovation**: Always exploring new technologies and ideas to push boundaries.
+- **Integrity & Transparency**: Open and honest communication within and outside the company.
+- **User-Centric**: Prioritizing user needs in all our products and services.
 
-- **価値観1**: [具体的な価値観の説明]
-- **価値観2**: [具体的な価値観の説明]
-- **価値観3**: [具体的な価値観の説明]
+## OUR FOCUS
+We leverage cutting-edge technology to provide innovative solutions in the following areas:
+- E-commerce platforms, Fan engagement, AI & Machine Learning.
 
-## 私たちの取り組み
+## TECH STACK
+- **Programming Languages**: Kotlin, Dart, Go, Python
+- **Frameworks**: Flutter, Gin, FastAPI
+- **Cloud Services**: Google Cloud, Firebase, Sakura Cloud
+- **Other Tools**: GitHub, Linear, Qase, Notion, Datadog, Figma
 
-私たちは、[特定の分野/技術/業界]において革新的なソリューションを提供することに尽力しています。主な注力分野は以下の通りです：
+## OPEN SOURCE CONTRIBUTION
+We actively contribute to the open-source community, providing tools and solutions that enhance development efficiency and industry growth.
 
-- [注力分野1]
-- [注力分野2]
-- [注力分野3]
+## CONTACT
+- **Email**: info@zexot-corp.com
+- **Website**: [zexot-corp.com](https://zexot-corp.com)
+- **Social Media**:
+  - Twitter: [@zexot-corp](https://twitter.com/zexot-corp)
+  - LinkedIn: [@zexot-corp](https://www.linkedin.com/company/zexot-corp)
 
-## 技術スタック
-
-私たちが日常的に使用している主要な技術：
-
-- プログラミング言語: 
-- フレームワーク: 
-- クラウドサービス: 
-- その他のツール: 
-
-## 貢献とオープンソース
-
-私たちは[オープンソース/コミュニティ貢献]に積極的に取り組んでいます。私たちのリポジトリは、[貢献の目的や意義]を反映しています。
-
-## 連絡先
-
-- メール: [連絡用メールアドレス]
-- ウェブサイト: [会社のウェブサイト]
-- ソーシャルメディア: 
-  - Twitter: 
-  - LinkedIn: 
-
-## 採用情報
-
-私たちは常に[特定のロール/スキル]を持つ才能あるメンバーを探しています。オープンポジションは[キャリアページ/リンク]をご覧ください。
+## CAREERS
+We are always looking for talented engineers, designers, and product managers.
+Check out our open positions on our [Careers Page](https://zexot-corp.com/careers).
